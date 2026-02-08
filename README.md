@@ -21,7 +21,7 @@ You’ll learn practical ways to **read, validate, transform, and store data** u
 - Excel basics (reading/writing)
 - JSON and XML parsing/serialization
 - Data cleaning & basic validation patterns
-- Intro to databases (SQLite) and basic CRUD
 - Practical storage patterns for small applications
+- Working with web services/APIs
 
 ---
