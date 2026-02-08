@@ -18,6 +18,7 @@ You’ll learn practical ways to **read, validate, transform, and store data** u
 - Working with files and paths
 - Text & binary files
 - CSV reading/writing (including headers, `DictReader/DictWriter`, newline handling)
+- Pandas
 - Excel basics (reading/writing)
 - JSON and XML parsing/serialization
 - Data cleaning & basic validation patterns
